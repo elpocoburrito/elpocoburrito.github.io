@@ -5,13 +5,6 @@ hero:
   name: "DakoGuides"
   text: "Stremio Guides by yours truely"
   tagline: My great Stremio guides
-  actions:
-    - theme: brand
-      text: Stremio
-      link: /stremio-guide
-    - theme: alt
-      text: Jellyfun!
-      link: /jelly-what-the-helly!
 
 features:
   - title: A guide for beginners
