@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: A guide for beginners
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: None of that Arr stack, Usenet, Docker stuff here. It's straight and to the point. be up and runing in 10 minutes or money back (this is free...)
   - title: Featuring pre-made configs!
     details: We provide pre-made configs for your ease of use. Can be later customised in the AIOStream dashboard.
   - title: Made with love and a yearning for Torbox referals!
