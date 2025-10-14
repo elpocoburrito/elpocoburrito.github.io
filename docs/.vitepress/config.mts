@@ -6,13 +6,16 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Stremio', link: '/Stremio' },
+      { text: 'IPTV', link: '/IPTV' },
     ],
 
     sidebar: [
       {
-        text: '',
+        text: 'Guides',
         items: [
-          { text: '', link: '/' }
+          { text: 'Stremio', link: '/Stremio' },
+          { text: 'IPTV', link: '/IPTV' }
         ]
       }
     ],
