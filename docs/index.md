@@ -4,7 +4,6 @@ layout: home
 hero:
   name: "DakoGuides"
   text: "Stremio Guide by Yours Truly"
-  tagline: My Great Stremio Guide
 
 features:
   - title: A guide for beginners
