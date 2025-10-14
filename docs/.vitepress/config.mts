@@ -1,27 +1,24 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "DakoGuides",
   description: "Stremio Guides by yours truely",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '', link: '/' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'discord', link: 'https://discord.com/users/1319866328848400415' }
     ]
   }
 })
