@@ -3,16 +3,16 @@ layout: home
 
 hero:
   name: "DakoGuides"
-  text: "Stremio Guides by yours truely"
-  tagline: My great Stremio guides
+  text: "Stremio Guide by Yours Truly"
+  tagline: My Great Stremio Guide
 
 features:
   - title: A guide for beginners
     details: None of that Arr stack, Usenet, Docker stuff here. It's straight and to the point. Be up and runing in 10 minutes or money back (this is free...)
   - title: Featuring pre-made configs!
-    details: We provide pre-made configs for your ease of use. Can be later customised in the AIOStream dashboard.
+    details: I provide pre-made configs for your ease of use. Can be later customised in the AIOStream dashboard.
   - title: Made with love and a yearning for Torbox referals!
-    details: We are not a cult. We are not sellouts. I have no clue what you mean. Hey, do you like cats btw?
+    details: We are not a cult. We are not sellouts. I have no clue what you mean. Hey, do you like cats?
 ---
 # ‎ 
 
