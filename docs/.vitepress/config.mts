@@ -8,6 +8,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Stremio', link: '/Stremio' },
       { text: 'IPTV', link: '/IPTV' },
+      { text: 'Useful Links', link: '/Links' },
     ],
 
     sidebar: [
@@ -15,7 +16,8 @@ export default defineConfig({
         text: 'Guides',
         items: [
           { text: 'Stremio', link: '/Stremio' },
-          { text: 'IPTV', link: '/IPTV' }
+          { text: 'IPTV', link: '/IPTV' },
+          { text: 'Useful Links', link: '/Links' }
         ]
       }
     ],
